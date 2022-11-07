@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 441a4244876ab4844bd669bb8854cb60
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pacman: {instanceID: 0}
+  - pellets: {instanceID: 0}
+  - audioClip: {fileID: 8300000, guid: 47902dddd82545c4e878278ebeb4c8ad, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
